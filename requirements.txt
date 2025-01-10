@@ -1,1 +1,5 @@
 python-dotenv
+groq
+langgraph 
+langsmith 
+langchain_groq
